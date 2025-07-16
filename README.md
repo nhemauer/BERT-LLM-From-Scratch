@@ -2,7 +2,7 @@
 
 This repository contains a PyTorch-based implementation of the RoBERTa transformer model and tokenizer from scratch. Additionally, I include an implementation of DeBERTa.
 
-With the large-scale open response survey used to train these models, DeBERTaV3 performed best.
+With the large-scale open response survey used to train these models, DeBERTaV3 performed best. This dataset includes 13 class labels, and each observation can have multiple labels.
 
 ## What's Inside
 
